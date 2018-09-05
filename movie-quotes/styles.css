@@ -1,0 +1,65 @@
+selector {
+	property: value;
+	property: value;
+}
+
+body {
+	margin: 4em;
+	font-family: Georgia;
+	background-color: #4e5556;
+	color: white;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	
+}
+
+h3 {
+
+	font-weight: bold;
+}
+
+li {
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 18px;
+}
+
+em {
+	color:#9ba4a5;
+}
+
+
+
+#venkman {
+	color: #98ccd3;
+}
+
+#dana {
+	color:#98ccd3;
+}
+
+#stantz {
+	color:#98ccd3;
+}
+
+#zeddemore{
+	color:#98ccd3;
+}
+
+#mayor {
+	color:#98ccd3;
+}
+
+#spengler{
+	color:#98ccd3;
+}
+
+
+
