@@ -1,0 +1,42 @@
+
+
+
+body {
+	margin: 4em;
+	font-family: Futura;
+	background-color: #325372;
+	color: white;
+	
+}
+
+p {
+	margin-bottom: 30px;
+	font-family: Futura;
+	margin-left: 10em;
+
+}
+
+img {
+	width: 45%;
+	margin-top: 1em;
+	margin-right: 10em;
+	margin-left: 40em;
+	position: absolute;
+
+}
+
+
+em {
+	color: #D54638;
+}
+
+h1 {
+	margin-left: 3.25em;
+	font-size: 48px;
+	margin-bottom: 6px;
+}
+
+h2 {
+	margin-left: 6.75em;
+	margin-bottom: 3em;
+}
