@@ -1,0 +1,80 @@
+body {
+			width: 960px;
+			margin: 2em auto;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.4;
+		}
+
+h1 {
+			font-size: 2em;
+			font-weight: normal;
+			margin: 0 0 1rem 0;
+		}
+section {
+			padding: 2rem;
+			border: 1px solid #ccc;
+			margin: 4rem 0;
+			background-color: #fff;
+		}
+aside {
+			font-size: 24px;
+			font-family: Georgia, Serif;
+			font-style: italic;
+			background-color: #aaa;
+			color: #fff;
+			padding: 1.5rem;
+			width: 15rem;
+		}
+
+.callout1 {
+	float: right;
+	margin-left: 20px;
+
+}
+
+.callout2 {
+	position: relative;
+	left: 638px;
+	top: 300px;
+}
+
+.callout3 {
+	background-color: green;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.parent {
+	position: relative;
+}
+
+.callout4 {
+	background-color: red;
+	position: absolute;
+	left: 319px;
+	top: 300px;
+	z-index: 100;
+
+
+}
+
+.callout5 {
+	background-color: black;
+	position: absolute;
+	left: 309px;
+	top: 310px;
+
+
+
+
+
+
+
+
+
+
+
+
+
