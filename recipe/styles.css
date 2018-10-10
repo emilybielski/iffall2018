@@ -1,0 +1,78 @@
+
+body {
+	font-family: "Georgia", serif;
+	margin: 0;
+}
+
+header {
+	height: 75px;
+	background-color: #CAE9EC;
+	color: black;
+	margin: 0px;
+}
+
+header h1 {
+	color: black;
+	font-size: 24px;
+	padding-top: 40px;
+	margin-top: 0;
+	margin-left: 15px;
+
+}
+
+div.content {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+section.ingredients img {
+	width: 100%;
+	margin-top: 20px;
+	display: inline-block;
+	margin-bottom: 5px;
+
+}
+
+section.ingredients ul li {
+	margin-bottom: 3px;
+}
+
+section.ingredients {
+	margin-bottom: 25px;
+}
+
+li {
+	margin-left: -5px;
+}
+
+section h1 {
+	color: #EB232D;
+	font-size: 18px;
+}
+
+section.instructions li {
+	margin-bottom: 20px;
+
+}
+
+section.instructions {
+	padding-bottom: 15px;
+}
+
+footer {
+	height: 50px;
+	background-color: #CAE9EC
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
