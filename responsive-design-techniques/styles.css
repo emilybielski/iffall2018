@@ -1,0 +1,125 @@
+
+
+
+
+
+/* You will need some properties that 
+Use margin on 10px on second grid.
+*/
+
+body {
+	width: 90%;
+	max-width: 800px;
+	margin: auto;}
+
+
+
+@media (max-width: 500px) {
+	h1 {
+		font-size: 1.5rem;
+	}
+}
+
+@media (min-width: 500px) {
+	h1 {
+		font-size: 2.5rem;
+	}
+}
+
+@media (min-width: 480px) {
+	#stretchable-grid-items li {
+		width: 50%;
+	}
+}
+
+@media (min-width: 640px) {
+	body {
+		background-color: #eaf6ff;
+	}
+	#stretchable-grid-items li {
+		width: 25%;
+	}
+
+}
+
+
+
+
+#fixed-size-grid-items ul {
+    margin: 0 auto;
+    padding-left: 0;
+    font-size: 0;
+}
+
+ #fixed-size-grid-items li {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+
+}
+
+#fixed-size-grid-items li aside {
+	width: 170px;
+	margin: 10px;
+	font-size: 0.8rem;
+}
+
+
+
+
+#stretchable-grid-items ul {
+    margin: 0 auto;
+    font-size: 0;
+    padding-left: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+ #stretchable-grid-items li {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+
+
+}
+
+#stretchable-grid-items li aside {
+	margin: 10px;
+	font-size: 0.8rem;
+}
+
+
+
+
+/*#stretchable-grid-items ul {
+    margin: 0 auto;
+    padding-left: 0;
+}
+
+ #stretchable-grid-items li {
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    width: 100%;
+
+}
+
+
+@media (min-width: 640px) {
+	#stretchable-grid-items li {
+		width: 25%;
+	}
+}
+
+
+@media (max-width: 640px) {
+	#stretchable-grid-items li {
+		width: 50%;
+	}
+}
+
+
+
+
