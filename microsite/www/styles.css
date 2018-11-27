@@ -1,0 +1,229 @@
+
+body {
+	font-family: "Open Sans", sans-serif;
+	margin: 0;
+	color: black;
+	
+}
+
+
+header {
+	height: 400px;
+	background-image: url("images/headbeagle.jpg");
+	background-size: cover;
+	background-position: center;
+	padding-top: 50px;
+	color: black;
+
+}
+
+header h1 {
+	font-family: "Gravitas One", serif;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+	position: relative;
+	top: -100px;
+	font-family: "Gravitas One", serif;
+	color: white;
+	font-size: 3rem;
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	font-family: "PT Serif", serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    background-color: white;
+    margin-bottom: 2rem;
+    
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+    color: white;
+}
+
+
+
+h2 {
+	font-family: "PT Serif", serif;
+	color: black;
+	font-size: 40px;
+	margin-top: 20px;
+
+}
+
+div.content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	display: block;
+}
+
+
+section.opener p {
+	margin-bottom: 2rem;
+}
+
+
+
+.historysection img,
+.appearencesection img {
+	float: right;
+	margin-right: 1px;
+	margin-left: 40px;
+	margin-top: 0px;
+	margin-bottom: 2rem; 
+	vertical-align: top;
+}
+
+
+.smellsection img {
+	float: right;
+	margin-right: 1px;
+	margin-left: 40px;
+	margin-top: 0px;
+	margin-bottom: 2rem; 
+	vertical-align: top;
+}
+
+
+.variationssection img {
+	float: right;
+	margin-right: 1px;
+	margin-left: 40px;
+	margin-top: 0px;
+	margin-bottom: 2rem; 
+	vertical-align: top;
+}
+
+.tempermentsection img {
+	float: right;
+	margin-right: 1px;
+	margin-left: 40px;
+	margin-top: 0px;
+	margin-bottom: 2rem; 
+	vertical-align: top;
+}
+
+
+/*
+.history img,
+.appearence img,
+.smell img,
+.variations img,
+.temperment img, {
+	float: right;
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	height: 300px;
+	width: 400px;
+	vertical-align: top;
+
+}
+*/
+
+a#btn_top {
+				display: inline-block;
+				font-family: "PT Serif", serif;
+				margin: auto;
+				height: 20px;
+				width: 100px;
+				padding: 10px 20px 5px 20px;
+				margin-top: 20px;
+				margin-bottom: 20px;
+				border: 1px solid #000;
+				background-color: #fff;
+				color: black;
+				font-size: 11px;
+				font-weight: normal;
+				font-style: italic;
+				text-align: center;
+				text-decoration: none;
+			}
+
+a#btn_top:hover {
+				background-color: black;
+				color: white;
+			}
+
+
+p {
+	font-size: 15px;
+	line-height: 25px;
+
+}
+
+
+.object img {
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	width: 300px;
+	height: 300px;
+	vertical-align: top;
+}
+
+.caption {
+	font-style: italic;
+	color: white;
+	margin: 0;
+	font-size: 12px;
+	padding: 0;
+	position: relative;
+	top: 100px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
+a:active {
+	color: white;
+}
+
+
+footer {
+	background-color: black;
+	color: white;
+	height: 200px;
+	font-size: 10px;
+
+
+}
+
+
+
+
+
+
+
