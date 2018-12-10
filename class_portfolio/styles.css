@@ -96,6 +96,9 @@ h4 {
 	orphans: 0; 
 }
 
+footer {
+	height: 100px;
+}
 
 @media (max-width: 1200px) {
 	.itemgroup {
@@ -115,7 +118,6 @@ h4 {
 	margin-bottom: 35px;
 }
 
-
-
+}
 
 
